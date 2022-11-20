@@ -1,5 +1,10 @@
 # Youtube-Video-Audio-Downloader
-
 BJL156
 
-downloads YouTube Videos and makes a .mp4 and a .mp3 file.
+# About
+Program that downloads the video and the audio from a YouTube video.
+
+# Features
+- Downloads video
+- Downloads audio
+- Lets user choose file with tkinter
